@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <img height="910" src="https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/415984193_224765677343015_4989568476786493604_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=uPCKTxr8kfUAX-7m0E3&_nc_ht=scontent-los2-1.xx&oh=00_AfA2TVAQeX33Rt7mdOvE8RUg3OZH9EDdyUCwptuOLGofIQ&oe=65B6AAE0"  />
+  <img height="910" src="https://bronze-gigantic-quokka-778.mypinata.cloud/ipfs/QmRTktRbVuDaFZZHrCd8LfZ7nZabpdN2wXtnszSeiRgB9t"  />
 </div>
 
 ###
