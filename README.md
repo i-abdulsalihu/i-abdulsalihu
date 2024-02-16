@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <img height="910" src="https://bronze-gigantic-quokka-778.mypinata.cloud/ipfs/QmRTktRbVuDaFZZHrCd8LfZ7nZabpdN2wXtnszSeiRgB9t"  />
+  <img height="220" src="https://bronze-gigantic-quokka-778.mypinata.cloud/ipfs/QmRTktRbVuDaFZZHrCd8LfZ7nZabpdN2wXtnszSeiRgB9t"  />
 </div>
 
 ###
