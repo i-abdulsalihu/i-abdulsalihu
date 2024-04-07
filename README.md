@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="230" src="https://pbs.twimg.com/profile_banners/1488193665315053571/1707958058/1500x500"  />
+  <img height="230" src="https://pbs.twimg.com/profile_banners/1488193665315053571/1707958058/1500x500" style={{object-fit: "cover"}}  />
 </div>
 
 ###
