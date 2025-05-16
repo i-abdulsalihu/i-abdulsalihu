@@ -18,13 +18,13 @@
   <a href="https://discord.com/channels/@me/969193609805053972" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.instagram.com/_web_sculptor/" target="_blank">
+  <a href="https://www.instagram.com/i_abdulsalihu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://twitter.com/web_sculptor" target="_blank">
+  <a href="https://twitter.com/i_abdulsalihu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://medium.com/@websculptor" target="_blank">
+  <a href="https://medium.com/@i_abdulsalihu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
@@ -78,6 +78,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/WebSculptor/WebSculptor/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/i-abdulsalihu/i-abdulsalihu/output/snake.svg" alt="Snake animation" />
 
 ###
